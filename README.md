@@ -110,10 +110,9 @@ You can assign a keyboard shortcut to launch PremiereProxyGenerator directly fro
 3. In the search field, type **`PremiereProxyGenerator`** (or the exact script name as it appears under Workspace > Scripts)
 4. Locate the script entry under the **Scripts** category
 5. Click in the **Key** column next to the script name
-6. Press **Ctrl+Shift+P** (or any combination you prefer) to assign it
+6. Press **Ctrl+P** (or any combination you prefer) to assign it
 7. Click **Save** to confirm. If prompted about a conflict, choose **Reassign**
 
-> **Note:** On macOS, **⌘P** is reserved by Resolve for Print and **⌘R** is reserved for Render Queue. Using **Ctrl+Shift+P** (the Control key, not Command) avoids both conflicts.
 
 ### Verify the Shortcut
 - Press your assigned shortcut from any page in DaVinci Resolve
