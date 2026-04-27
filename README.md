@@ -224,3 +224,6 @@ Built for an Adobe Premiere Pro proxy attach dailies workflow.
 ## License
 
 Released as-is for production use. Modify freely for your own workflow.
+
+<img width="682" height="658" alt="Screenshot 2026-04-27 at 3 40 44 PM" src="https://github.com/user-attachments/assets/c2ed3511-b620-44bd-bb8d-9ef177b350e1" />
+
