@@ -6,7 +6,7 @@ Written for ARRI Alexa 35, Alexa Mini LF, Alexa 65, Sony Venice 1 and 2, and RED
 
 <img width="682" height="658" alt="Screenshot 2026-04-27 at 3 40 44 PM" src="https://github.com/user-attachments/assets/c2ed3511-b620-44bd-bb8d-9ef177b350e1" />
 
-
+---
 
 > **Current scope (v1.0.0):** the script only sets the timeline resolution. Codec, audio passthrough, filename, and timecode handling have to be configured manually on the Deliver page. Automated render preset generation is on the roadmap (see Roadmap below).
 
